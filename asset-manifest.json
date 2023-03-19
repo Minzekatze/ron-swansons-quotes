@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ron-swansons-quotes/static/css/main.fc5c2c69.css",
+    "main.js": "/ron-swansons-quotes/static/js/main.aaabcdda.js",
+    "index.html": "/ron-swansons-quotes/index.html",
+    "main.fc5c2c69.css.map": "/ron-swansons-quotes/static/css/main.fc5c2c69.css.map",
+    "main.aaabcdda.js.map": "/ron-swansons-quotes/static/js/main.aaabcdda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.aaabcdda.js"
+  ]
+}
